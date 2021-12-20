@@ -2,5 +2,3 @@
 
 ### I'm currently on my Second year of Master degree, specialize on Distributed Applications and Systems
 
-<!--START_SECTION:activity-->
-
