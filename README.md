@@ -16,6 +16,7 @@
 
 - 🌟 My main project are :
   - [Embeeded programming on Arduino and raspberry](https://github.com/AliochaAMERGE/Project_IOC) : Creation of a web server using Django communicating between sensors on an Arduino and a Raspberry pi 3 through an MQTT broker.
+  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://mosquitto.org/" target="_blank" rel="noreferrer"> <img src="img/mosquitto.png" alt="mosquitto" width="139" height="28"/></a> <a href="https://raspberrypi.com" target="_blank" rel="noreferrer"> <img src='https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg' alt="raspberrypi" width="139" height="40"></a>
 
   - [Implementing basics operations on a Distributed Hash Table](https://github.com/AliochaAMERGE/AR_project_2021) using [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) protocol (peer to peer) : 
