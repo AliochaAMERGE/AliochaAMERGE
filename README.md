@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Some data engineering framworks such as zookeeper, Cassandra or Hbase. And i'm trying to simply improve my overall coding skills.**
 
-<!-->
+<!--
 - 🌟 My main projects are :
   - [Embeeded programming on Arduino and raspberry](https://github.com/AliochaAMERGE/Project_IOC) : Creation of a web server using Django communicating between sensors on an Arduino and a Raspberry pi 3 through an MQTT broker.
   
@@ -24,7 +24,7 @@
   
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
-<-->
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
