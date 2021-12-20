@@ -23,8 +23,11 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
-### Github activities
+### Recent Activities
 
- <!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
