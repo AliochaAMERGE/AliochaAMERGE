@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliocha AMERGÉ </h1>
-<h3 align="center">a Computer Science student at Sorbonne Université (Paris)</h3>
+<h3 align="center">A Computer Science student at Sorbonne Université (Paris)</h3>
 
 <h3 align="center">I'm currently on my Second year of Master degree, specialize on Distributed Applications and Systems</h3>
 
