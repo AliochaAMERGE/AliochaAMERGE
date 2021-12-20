@@ -48,15 +48,15 @@ No Activity tracked this Week
 ### Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
-2. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-3. 📔 Created new repository [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
-4. ⭐ Starred [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
-5. ⭐ Starred [azn94/M2](https://github.com/azn94/M2)
+1. 📔 Created new repository [AliochaAMERGE/advantOfCode2021](https://github.com/AliochaAMERGE/advantOfCode2021)
+2. ⭐ Starred [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
+3. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+4. 📔 Created new repository [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
+5. ⭐ Starred [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 20th, 2021, 9:38:40 PM
+Last Updated: Monday, December 20th, 2021, 10:16:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
