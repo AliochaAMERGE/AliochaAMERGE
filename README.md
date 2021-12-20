@@ -29,5 +29,13 @@
 ### Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
+2. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+3. 📔 Created new repository [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
+4. ⭐ Starred [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+5. ⭐ Starred [azn94/M2](https://github.com/azn94/M2)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, December 20th, 2021, 12:31:56 PM
+<!--RECENT_ACTIVITY:last_update_end-->
