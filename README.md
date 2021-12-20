@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aliocha AMERGÉ a Computer Science student at Sorbonne Université (Paris)</h1>
+<h1 align="center">Hi 👋, I'm Aliocha AMERGÉ </h1>
+<h3 align="center">a Computer Science student at Sorbonne Université (Paris)</h3>
+
 <h3 align="center">I'm currently on my Second year of Master degree, specialize on Distributed Applications and Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliochaamerge&label=Profile%20views&color=0e75b6&style=flat" alt="aliochaamerge" /> </p>
