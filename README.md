@@ -21,3 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliochaamerge&" alt="aliochaamerge" /></p>
 
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
