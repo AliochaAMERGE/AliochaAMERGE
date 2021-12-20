@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliochaamerge&label=Profile%20views&color=0e75b6&style=flat" alt="aliochaamerge" /> </p>
 
-- 🔭 I’m currently working on [a Modeling and Verification of Concurrent Systems project using Nusmv](https://github.com/AliochaAMERGE/Project-ASTRE-2021)
+- 🔭 I’m currently working on serveral schools projects mostly :
+  - [A Modeling and Verification of Concurrent Systems project using Nusmv](https://github.com/AliochaAMERGE/Project-ASTRE-2021)
+  - [A simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+  - [A simulation project on the Paxos Algorithm using PeerSim](https://github.com/AliochaAMERGE/Project-ARA-2021)
+  - [A simple program using Zookeeper](https://github.com/AliochaAMERGE/M2-DataCloud-2021/tree/main/TME-Zookeeper)
 
 - 🌱 I’m currently learning **Some data engineering framworks such as zookeeper, Cassandra or Hbase. And i'm trying to simply improve my overall coding skills.**
-
-- 🤝 I’m looking for help with [a simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
