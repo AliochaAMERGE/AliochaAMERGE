@@ -4,7 +4,7 @@
 
 <h4 align="center">I'm currently on my Second year of Master degree, specialize on Distributed Applications and Systems</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliochaamerge&label=Profile%20views&color=0e75b6&style=flat" alt="aliochaamerge" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?center=true&username=aliochaamerge&label=Profile%20views&color=0e75b6&style=flat" alt="aliochaamerge" /> </p>
 
 - 🔭 I’m currently working on serveral schools projects mostly :
   - [A Modeling and Verification of Concurrent Systems project using Nusmv](https://github.com/AliochaAMERGE/Project-ASTRE-2021)
