@@ -41,7 +41,11 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   1 hr 30 mins    ███████████████░░░░░░░░░░   59.90 % 
+C++        39 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.90 % 
+Java       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+YAML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
 
