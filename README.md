@@ -10,7 +10,6 @@
   - [A Modeling and Verification of Concurrent Systems project using Nusmv](https://github.com/AliochaAMERGE/Project-ASTRE-2021)
   - [A simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
   - [A simulation project on the Paxos Algorithm using PeerSim](https://github.com/AliochaAMERGE/Project-ARA-2021)
-  - [A simple program using Zookeeper](https://github.com/AliochaAMERGE/M2-DataCloud-2021/tree/main/TME-Zookeeper)
 
 - 🌱 I’m currently learning **Some data engineering framworks such as zookeeper, Cassandra or Hbase. And i'm trying to simply improve my overall coding skills.**
 
