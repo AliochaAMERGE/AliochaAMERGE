@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?center=true&username=aliochaamerge&label=Profile%20views&color=0e75b6&style=flat" alt="aliochaamerge" /> </p>
 
 - 🔭 I’m currently working on serveral schools projects mostly :
-  - [A Modeling and Verification of Concurrent Systems project using Nusmv](https://github.com/AliochaAMERGE/Project-ASTRE-2021)
+  - Understanding Cassandra
   - [A simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
   - [A simulation project on the Paxos Algorithm using PeerSim](https://github.com/AliochaAMERGE/Project-ARA-2021)
 
