@@ -40,10 +40,11 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Scala        10 hrs 57 mins  ████████████████░░░░░░░░░   64.17 % 
-Markdown     3 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 % 
-NuSMV        2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Scala        9 hrs 5 mins    ████████████▓░░░░░░░░░░░░   50.91 % 
+Markdown     7 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.30 % 
+NuSMV        1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
