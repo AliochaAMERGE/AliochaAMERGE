@@ -51,15 +51,15 @@ JavaScript   37 mins         ▓░░░░░░░░░░░░░░░░
 ### Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
-2. ⭐ Starred [AliochaAMERGE/Project_IOC](https://github.com/AliochaAMERGE/Project_IOC)
-3. 📔 Created new repository [AliochaAMERGE/advantOfCode2021](https://github.com/AliochaAMERGE/advantOfCode2021)
-4. ⭐ Starred [AliochaAMERGE/AliochaAMERGE](https://github.com/AliochaAMERGE/AliochaAMERGE)
-5. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+1. ✌️ Released [v.1.0-Submission-web-project](https://github.com/AliochaAMERGE/Project-DEVREP-2021/releases/tag/Submission-Web) in [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+2. ✌️ Released [Submission-Web-Project](https://github.com/AliochaAMERGE/Project-DEVREP-2021/releases/tag/Project-web) in [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+3. ✌️ Released [Depot du mini-TP JEE](https://github.com/AliochaAMERGE/Project-DEVREP-2021/releases/tag/Project-web) in [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+4. ⭐ Starred [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+5. ⭐ Starred [AliochaAMERGE/Project_IOC](https://github.com/AliochaAMERGE/Project_IOC)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 14th, 2022, 2:18:51 PM
+Last Updated: Friday, January 14th, 2022, 4:29:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
