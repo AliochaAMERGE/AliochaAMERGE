@@ -40,11 +40,11 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Vue.js       10 hrs 34 mins  █████████▓░░░░░░░░░░░░░░░   39.26 % 
-Markdown     6 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
-Java         4 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Scala        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JavaScript   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Vue.js       10 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   38.29 % 
+Markdown     6 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Java         5 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Scala        54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JavaScript   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
 
