@@ -48,6 +48,8 @@ JSON         44 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
@@ -61,8 +63,6 @@ JSON         44 mins         ▓░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, January 19th, 2022, 10:19:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=AliochaAMERGE&theme=github">
