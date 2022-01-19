@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?center=true&username=aliochaamerge&label=Profile%20views&color=0e75b6&style=flat" alt="aliochaamerge" /> </p>
 
 - 🔭 I’m currently working on serveral schools projects mostly :
-  - Understanding Cassandra
-  - [A simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
+  - Final exams are coming, so I won't be doing much
+  - [A simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021) (SPL)
   - [A simulation project on the Paxos Algorithm using PeerSim](https://github.com/AliochaAMERGE/Project-ARA-2021)
 
 - 🌱 I’m currently learning **Some data engineering framworks such as zookeeper, Cassandra or Hbase. And i'm trying to simply improve my overall coding skills.**
