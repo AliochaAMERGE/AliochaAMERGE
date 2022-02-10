@@ -40,10 +40,10 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Other      4 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.64 % 
-Scala      3 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.57 % 
-Markdown   2 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
-Java       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Scala      3 hrs 58 mins   ████████████▓░░░░░░░░░░░░   50.52 % 
+Markdown   2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.09 % 
+Other      1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Java       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
 
