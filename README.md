@@ -40,8 +40,6 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Total: 7 mins
-
 Other      45 mins         █████████████████████▓░░░   86.09 % 
 Markdown   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 ```
