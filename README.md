@@ -37,26 +37,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aliochaamerge&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=6E1760" alt="aliochaamerge" />
 </p>
 
-### Coding Stats
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### Recent Activities
-
-<!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v.1.0-Submission-web-project](https://github.com/AliochaAMERGE/Project-DEVREP-2021/releases/tag/Submission-Web) in [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
-2. ✌️ Released [Submission-Web-Project](https://github.com/AliochaAMERGE/Project-DEVREP-2021/releases/tag/Project-web) in [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
-3. ✌️ Released [Depot du mini-TP JEE](https://github.com/AliochaAMERGE/Project-DEVREP-2021/releases/tag/Project-web) in [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
-4. ⭐ Starred [AliochaAMERGE/Project-DEVREP-2021](https://github.com/AliochaAMERGE/Project-DEVREP-2021)
-5. ⭐ Starred [AliochaAMERGE/Project_IOC](https://github.com/AliochaAMERGE/Project_IOC)
-<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, March 17th, 2022, 12:34:32 PM
