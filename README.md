@@ -39,10 +39,3 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 17th, 2022, 12:34:32 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=AliochaAMERGE&theme=github">
-</p> 
