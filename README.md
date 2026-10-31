@@ -11,7 +11,7 @@
   - [A simple web project](https://github.com/AliochaAMERGE/Project-DEVREP-2021) (SPL)
   - [A simulation project on the Paxos Algorithm using PeerSim](https://github.com/AliochaAMERGE/Project-ARA-2021)
 
-- 🌱 I’m currently learning **Some data engineering frameworks such as zookeeper, Cassandra or Hbase. And i'm trying to simply improve my overall coding skills.**
+- 🌱 I’m also learning **Some data engineering frameworks such as zookeeper, Cassandra or Hbase. And i'm trying to simply improve my overall coding skills.**
 
 <!--
 - 🌟 My main projects are :
